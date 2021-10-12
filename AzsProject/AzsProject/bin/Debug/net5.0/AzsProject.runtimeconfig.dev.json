@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/nikminer4sv/.dotnet/store/|arch|/|tfm|",
+      "/home/nikminer4sv/.nuget/packages"
+    ]
+  }
+}

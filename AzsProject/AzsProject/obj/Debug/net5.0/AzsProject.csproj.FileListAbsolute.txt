@@ -1,0 +1,16 @@
+/home/nikminer4sv/RiderProjects/AzsProject/AzsProject/bin/Debug/net5.0/AzsProject
+/home/nikminer4sv/RiderProjects/AzsProject/AzsProject/bin/Debug/net5.0/AzsProject.deps.json
+/home/nikminer4sv/RiderProjects/AzsProject/AzsProject/bin/Debug/net5.0/AzsProject.runtimeconfig.json
+/home/nikminer4sv/RiderProjects/AzsProject/AzsProject/bin/Debug/net5.0/AzsProject.runtimeconfig.dev.json
+/home/nikminer4sv/RiderProjects/AzsProject/AzsProject/bin/Debug/net5.0/AzsProject.dll
+/home/nikminer4sv/RiderProjects/AzsProject/AzsProject/bin/Debug/net5.0/ref/AzsProject.dll
+/home/nikminer4sv/RiderProjects/AzsProject/AzsProject/bin/Debug/net5.0/AzsProject.pdb
+/home/nikminer4sv/RiderProjects/AzsProject/AzsProject/obj/Debug/net5.0/AzsProject.csproj.AssemblyReference.cache
+/home/nikminer4sv/RiderProjects/AzsProject/AzsProject/obj/Debug/net5.0/AzsProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/nikminer4sv/RiderProjects/AzsProject/AzsProject/obj/Debug/net5.0/AzsProject.AssemblyInfoInputs.cache
+/home/nikminer4sv/RiderProjects/AzsProject/AzsProject/obj/Debug/net5.0/AzsProject.AssemblyInfo.cs
+/home/nikminer4sv/RiderProjects/AzsProject/AzsProject/obj/Debug/net5.0/AzsProject.csproj.CoreCompileInputs.cache
+/home/nikminer4sv/RiderProjects/AzsProject/AzsProject/obj/Debug/net5.0/AzsProject.dll
+/home/nikminer4sv/RiderProjects/AzsProject/AzsProject/obj/Debug/net5.0/ref/AzsProject.dll
+/home/nikminer4sv/RiderProjects/AzsProject/AzsProject/obj/Debug/net5.0/AzsProject.pdb
+/home/nikminer4sv/RiderProjects/AzsProject/AzsProject/obj/Debug/net5.0/AzsProject.genruntimeconfig.cache
